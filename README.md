@@ -1,2 +1,2 @@
 # Data-Structures-Project
-Data structures implementations made for educational purposes.
+Data structures implementations made for academic purposes.
